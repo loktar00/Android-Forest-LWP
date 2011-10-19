@@ -1,0 +1,10 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+        android:title="@string/wallpaper_settings" android:key="settings">
+
+	<PreferenceCategory>
+		 <PreferenceScreen
+                android:title="@string/wallpaper_settings">
+        </PreferenceScreen>
+	</PreferenceCategory>
+
+</PreferenceScreen>

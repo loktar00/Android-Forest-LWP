@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, ForestscenesActivity!</string>
+    <string name="app_name">Forest Scenes</string>
+    <string name="description">Displays forests</string>
+    <string name="wallpaper_settings">Wallpaper Settings</string>
+</resources>
